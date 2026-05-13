@@ -1,9 +1,5 @@
 # sil_score
 
-[![PyPI](https://img.shields.io/pypi/v/sil-score.svg)](https://pypi.org/project/sil-score/)
-[![Python](https://img.shields.io/pypi/pyversions/sil-score.svg)](https://pypi.org/project/sil-score/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 `sil-score` is a small Python package for exact and fast approximate silhouette scoring.
 
 It extends the usual silhouette workflow with:
@@ -21,7 +17,7 @@ The approximate mode uses Euclidean distances to cluster centroids, making it fa
 
 ## Installation
 
-Install from PyPI:
+Install from [!PyPI](https://pypi.org/project/sil-score/):
 
 ```bash
 pip install sil-score
