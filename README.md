@@ -17,7 +17,7 @@ The approximate mode uses Euclidean distances to cluster centroids, making it fa
 
 ## Installation
 
-Install from [!PyPI](https://pypi.org/project/sil-score/):
+Install from [PyPI](https://pypi.org/project/sil-score/):
 
 ```bash
 pip install sil-score
