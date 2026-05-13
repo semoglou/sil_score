@@ -9,8 +9,7 @@ setup(
     author="Aggelos Semoglou",
     license="MIT",
     url="https://github.com/semoglou/sil_score",
-    packages=find_packages(where="src"),
-    package_dir={"": "src"},
+    packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
         "numpy>=1.21",
