@@ -172,7 +172,7 @@ score = weighted_macro_sil_score(X, labels, cluster_weights=weights)
 sil_approximation_report(X, labels, centers=None, return_samples=False)
 ```
 
-Compares exact silhouette scores with centroid-based approximate scores. It returns(Pearson) correlation and error metrics:
+Compares exact silhouette scores with centroid-based approximate scores. It returns (Pearson) correlation and error metrics:
 
 ```python
 report = sil_approximation_report(X, labels)
