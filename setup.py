@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="sil_score",
-    version="0.1.3",
+    name="sil-score",
+    version="0.1.4",
     description="Exact and approximate silhouette scoring with micro, macro, and weighted cluster averages.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
