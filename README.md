@@ -1,9 +1,11 @@
 # sil-score
 
-[![PyPI version](https://img.shields.io/pypi/v/sil-score.svg)](https://pypi.org/project/sil-score/)
-[![Python versions](https://img.shields.io/pypi/pyversions/sil-score.svg)](https://pypi.org/project/sil-score/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Downloads](https://static.pepy.tech/badge/sil-score)](https://pepy.tech/project/sil-score)
+<p align="center">
+  <a href="https://pypi.org/project/cake-ensemble/"><img src="https://img.shields.io/pypi/v/sil-score.svg?color=blue" alt="PyPI version"></a>&nbsp;&nbsp;
+  <a href="https://pypi.org/project/cake-ensemble/"><img src="https://img.shields.io/pypi/pyversions/sil-score.svg" alt="Python versions"></a>&nbsp;&nbsp;
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>&nbsp;&nbsp;
+  <a href="https://pepy.tech/project/cake-ensemble"><img src="https://pepy.tech/badge/sil-score" alt="Downloads"></a>
+</p>
 
 
 `sil-score` is a small Python package for exact and fast approximate silhouette scoring.
