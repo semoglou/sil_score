@@ -21,6 +21,16 @@ It extends the usual silhouette workflow with:
 The exact mode uses scikit-learn's `silhouette_samples`.  
 The approximate mode uses Euclidean distances to cluster centroids, making it faster but not identical to the classical silhouette definition.
 
+## Related packages
+
+This package is part of a small clustering-validation ecosystem:
+
+| Package | Purpose |
+|---|---|
+| [`intclustval`](https://pypi.org/project/intclustval/) | Internal clustering validation metrics |
+| [`extclustval`](https://pypi.org/project/extclustval/) | External clustering validation metrics using ground-truth labels |
+| [`sil-score`](https://pypi.org/project/sil-score/) | Exact and approximate silhouette scoring |
+
 ---
 
 ## Installation
